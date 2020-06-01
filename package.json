@@ -1,0 +1,11 @@
+{
+  "name": "kiss-retry-fetch",
+  "version": "0.9.0",
+  "description": "Simple node module to retry calls to fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
